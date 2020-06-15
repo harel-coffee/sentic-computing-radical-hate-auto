@@ -1,0 +1,10 @@
+PyYAML
+gensim
+gsitk
+nltk
+numpy
+pandas
+scipy
+sklearn
+spacy
+tqdm

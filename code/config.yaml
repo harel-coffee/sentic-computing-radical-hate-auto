@@ -1,0 +1,15 @@
+data:
+  embeddings: ''
+  pro_path: ''
+  neutral_path: ''
+  pro_566_path: ''
+  anti_566_path: ''
+  magazines: ''
+  semeval19hate: ''
+  davidson: 'https://raw.githubusercontent.com/oaraque/hate-speech-and-offensive-language/master/data/labeled_data.csv'
+
+senticnet:
+  affectivespace: "../data/senticnet/affectivespace-csv/affectivespace.csv"
+  senticnet: "../data/senticnet/senticnet-5.0/senticnet5_pandas.pck"
+
+savepath: "../results/"
